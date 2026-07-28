@@ -156,8 +156,6 @@ A structured checklist is available in [`docs/MANUAL_TESTS.md`](docs/MANUAL_TEST
 
 ## Security and privacy
 
-- Previously committed local credentials and API keys have been removed from the active repository history.
-- The repository contains placeholders rather than usable credentials.
 - Users must provide their own local database configuration and Google Maps API key.
 - The applications are educational prototypes and have not undergone a production security review.
 - Further validation, authorization checks, CSRF protection, upload hardening, and automated security testing would be required before deployment.
