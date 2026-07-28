@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+
+.env
+.env.*
+!.env.example
+
+*.log
+
+.vscode/
+.idea/
+
+# Local-only configuration files can be added here if introduced later.
